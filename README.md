@@ -1,5 +1,5 @@
 
- Cursor Practice
+# Cursor Practice
 
 这个仓库记录了我使用 Cursor（VS Code 的 AI 增强版本）的实践经验和心得。Cursor 不仅是一个 IDE，更是一个强大的 AI 辅助编程工具。
 
